@@ -1,0 +1,8 @@
+{
+  "name": "signer",
+  "app_id": "59060943",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
